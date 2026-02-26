@@ -4,7 +4,12 @@ The Sales Performance Dashboard project is an Excel-based analytical solution de
 
 This dashboard was created using Microsoft Excel with features such as Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, and data visualization tools. The aim was to build a dynamic and user-friendly interface that allows business stakeholders to quickly monitor key metrics and identify patterns without manually analyzing large datasets.
 
-At the top section of the dashboard, Key Performance Indicators (KPIs) are displayed to provide a quick snapshot of overall performance. The total revenue generated is ₹35,20,984 from 1000 total orders. These two metrics help evaluate the scale of operations and overall sales volume. Additionally, the average customer spending is ₹3,520.98, which indicates the purchasing power and average order value. The order delivery difference of 5.53 days provides insight into operational efficiency and delivery performance. These KPIs collectively represent the financial and operational health of the business.
+At the top section of the dashboard, 
+1.Key Performance Indicators (KPIs) are displayed to provide a quick snapshot of overall performance. 
+2.The total revenue generated is ₹35,20,984 from 1000 total orders. These two metrics help evaluate the scale of operations and overall sales volume. 
+3.Additionally, the average customer spending is ₹3,520.98, which indicates the purchasing power and average order value. 
+4.The order delivery difference of 5.53 days provides insight into operational efficiency and delivery performance. 
+These KPIs collectively represent the financial and operational health of the business.
 
 One of the most important components of the dashboard is the time-based revenue analysis. The hourly revenue chart highlights fluctuations in sales across different hours of the day. This helps identify peak business hours when customer activity is highest. Businesses can use this insight to optimize staffing, run targeted promotions during high-traffic periods, or improve customer service during peak times. Similarly, the monthly revenue analysis shows seasonal patterns in sales performance. Certain months generate higher revenue compared to others, which indicates seasonal demand influenced by festivals, occasions, or marketing campaigns. Understanding these trends is crucial for forecasting and inventory planning.
 
